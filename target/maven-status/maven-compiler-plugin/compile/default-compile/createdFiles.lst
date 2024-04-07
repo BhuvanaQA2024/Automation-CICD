@@ -1,0 +1,8 @@
+automationprojects\pageobjects\CheckoutPage.class
+automationprojects\pageobjects\ProductCatalogue.class
+automationprojects\AbstractComponents\AbstractComponent.class
+automationprojects\pageobjects\CartPage.class
+automationprojects\pageobjects\OrderPage.class
+automationprojects\pageobjects\LandingPage.class
+automationprojects\resources\ExtentReporterNG.class
+automationprojects\pageobjects\ConfirmationPage.class
