@@ -22,7 +22,7 @@ import automationprojects.pageobjects.LandingPage;
 import automationprojects.pageobjects.OrderPage;
 import automationprojects.pageobjects.ProductCatalogue;
 import automationprojects.TestComponents.BaseTest;
-
+//new code CICD
 	//using page object model in test annotation
 	public class SubmitOrderTest extends BaseTest {
 		String productName="ZARA COAT 3";
